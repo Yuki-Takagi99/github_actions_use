@@ -6,4 +6,4 @@ jobs:
     name: Hello
     steps:
       - name: Hello
-        uses: github_actions_js/hello-action@v1.0.0
+        uses: github-actions-up-and-running/hello-action@v1.0.0
